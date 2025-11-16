@@ -1,0 +1,5 @@
+{
+  "name": "AI Math Formula Helper (AI 수학 공식 도우미)",
+  "description": "An application for elementary to high school students in Korea to get explanations for math formulas. Select your grade, enter a formula, and receive a simple, clear explanation from AI.",
+  "requestFramePermissions": []
+}
